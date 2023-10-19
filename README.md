@@ -1,11 +1,11 @@
 # Web-Project
 # Website Bookmarker
 
-A simple website bookmarking project built using HTML, CSS, Bootstrap and JavaScript CRUD operations.
+This project is a web application that allows users to bookmark their favorite websites using JavaScript CRUD operations.
 
 ## Description
 
-This project is a web application that allows users to bookmark their favorite websites. It provides basic CRUD (Create, Read, Update, Delete) operations for managing bookmarks using local storage.
+This code sets up the basic structure of a web page for a bookmark system, with form inputs for adding bookmarks, a search feature, and a table for displaying bookmarks. The styling is enhanced with Bootstrap and a custom "style.css" file, and interactivity is provided by the "script.js" JavaScript file which provides basic CRUD (Create, Read, Update, Delete) operations for managing bookmarks. 
 
 ## Demo
 
