@@ -1,7 +1,7 @@
 # Web-Project
 # Website Bookmarker
 
-A simple website bookmarking application built using JavaScript CRUD operations.
+A simple website bookmarking project built using HTML, CSS, Bootstrap and JavaScript CRUD operations.
 
 ## Description
 
@@ -9,7 +9,7 @@ This project is a web application that allows users to bookmark their favorite w
 
 ## Demo
 
-You can access the live demo of the project [Here](http://192.168.1.170:5500/index.html).
+You can access the live demo of the project by clicking [here](http://192.168.1.170:5500/index.html) .
 
 ## Features
 
