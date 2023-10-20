@@ -9,7 +9,7 @@ This code sets up the basic structure of a web page for a bookmark system, with 
 
 ## Demo
 
-You can access the live demo of the project by clicking [here](http://192.168.1.170:5500/index.html) .
+You can access the live demo of the project by clicking [here](http://192.168.1.170:5500/home.html) .
 
 ## Features
 
