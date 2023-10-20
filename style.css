@@ -1,6 +1,8 @@
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'arial';
 }
-tr,form {
-    background-color: #cbcbcb;
+form {
+    background-color: #d4d2d2;
+    box-shadow: 4px 4px rgb(183, 183, 183);
+    border-radius: 20px;
 }
