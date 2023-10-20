@@ -100,8 +100,7 @@ inputSearch.addEventListener("keyup", _ => {
 inputName.addEventListener("keyup", validName)
 inputUrl.addEventListener("keyup", validUrl)
 function validName() {
-    // let regex = /^[A-Z][a-z_]+$/;
-    let regex = /^.*[\S]+.*$/;
+    let regex = /^.*[\S].*$/;
     if (regex.test(inputName.value)) {
         inputName.classList.add("is-valid")
         inputName.classList.remove("is-invalid")
@@ -115,11 +114,7 @@ function validName() {
     }
 }
 function validUrl() {
-    // let regex = /^(https?:\/\/).*[\S]+.*$/;
-    let regex = /^[^\W\d]*\d\w*$/
-
-    // let regex = /^(https?:\/\/)?([\w.-]+)(:\d+)?(\/[\w.-]*)*([?#][\w-]*)?$/;
-    // let regex = /https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,6}\b([-a-zA-Z0-9@:%_\+.~#?&//=]*)?/gi
+    let regex = /^(https?:\/\/)[^\@\#\%\^\*\>\<\"\:\]\[][\S]*$/;
     if (regex.test(inputUrl.value)) {
         inputUrl.classList.add("is-valid")
         inputUrl.classList.remove("is-invalid")
