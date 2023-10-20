@@ -21,8 +21,7 @@ You can access the live demo of the project by clicking [here](http://192.168.1.
 
 ## Usage
 
-1. Open the [live demo](http://192.168.1.170:5500/index.html) of the project.
-2. Enter a valid site name and URL in the respective input fields.
-3. Click the "Add Bookmark" button to save the bookmark.
-4. Existing bookmarks are displayed in a table with options to visit the website or delete the bookmark.
-5. Search the bookmark you want to display in the search bar.
+1. Enter a valid site name and URL in the respective input fields.
+2. Click the "Add Bookmark" button to save the bookmark.
+3. Existing bookmarks are displayed in a table with options to visit the website or delete the bookmark.
+4. Search the bookmark you want to display in the search bar.
