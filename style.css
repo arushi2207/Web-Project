@@ -1,8 +1,18 @@
 body {
     font-family: 'arial';
+    background: #f3f3f3;
 }
 form {
     background-color: #d4d2d2;
     box-shadow: 4px 4px rgb(183, 183, 183);
-    border-radius: 20px;
+    border-radius:20px;
 }
+h3{
+    background: #85e2c39d;
+    border-radius:15px;
+}
+.btn{
+    box-shadow: 3px 3px rgb(194, 194, 194);
+    align-items: center;
+    border-radius: 15px;
+} 
